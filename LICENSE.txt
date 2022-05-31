@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2022 Gil Oliveira. Portions of this project (c) 2019-2021 Seth Cottle, as part of project LittleLink, (c) 2022 James Walsh, as part of the project Academicons, (c) respective owners of brand assets
+Portions of this project (c) 2019-2021 Seth Cottle, as part of project LittleLink
+Remaining Copyright (c) 2022 Gil Oliveira
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

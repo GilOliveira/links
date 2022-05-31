@@ -6,7 +6,7 @@ environment:
   site: links.giloliveira.net
 tasks:
 - package: |
-    cd links/public
+    cd links
     tar -cvz ./public > ../site.tar.gz
 - upload: |
     hut pages publish -d $site site.tar.gz
